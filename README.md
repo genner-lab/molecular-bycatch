@@ -17,7 +17,7 @@ cd molecular-bycatch
 Rscript -e "renv::restore()"
 ```
 
-2. Download the meta-fish-pipe bioinformatics module. Be sure to read instructions and install all system software as instructed at [github.com/genner-lab/meta-fish-pipe](https://github.com/genner-lab/meta-fish-pipe).
+2. Download the 'meta-fish-pipe' bioinformatics module. Be sure to read instructions and install all system software as instructed at [github.com/genner-lab/meta-fish-pipe](https://github.com/genner-lab/meta-fish-pipe).
 
 ```bash
 # download and install pipeline
@@ -144,7 +144,7 @@ scripts/generate-stats.sh -p tele02 -l lib1 -t 8
 scripts/generate-stats.sh -p tele02 -l lib2 -t 8
 ```
 
-14. Run the taxonomic assignement steps and combine results from each library 
+14. Run the taxonomic assignment steps and combine results from each library 
 
 ```bash
 # run taxonomic assignment
