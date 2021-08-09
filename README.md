@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/xxx.svg)](https://zenodo.org/badge/latestdoi/xxx)
+[![DOI](https://zenodo.org/badge/390445435.svg)](https://zenodo.org/badge/latestdoi/390445435)
 
 # Estuarine molecular bycatch as a landscape-wide biomonitoring tool
 
