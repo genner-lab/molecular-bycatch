@@ -160,3 +160,10 @@ scripts/assemble-results.R -c assets/contaminants-exclude.csv
 cd ..
 cp -r meta-fish-pipe/results results
 ```
+
+16. Run analysis and statistics script to generate tables and figures. Run line-by-line to evaluate each result. Output is saved to 'results/figures' directory.
+
+```bash
+# run analysis
+scripts/analysis-figures.R
+```
