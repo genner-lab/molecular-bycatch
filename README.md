@@ -4,7 +4,7 @@
 
 #### Code and data for:
 
-Mariani, S., Harper, L.R., Collins, R.A., Baillie, C., Wangensteen, O.S., McDevitt, A.D., Heddell-Cowie, M., Genner, M.J. (2021). Estuarine molecular bycatch as a landscape-wide biomonitoring tool. _Insert Journal_. [https://doi.org/xxx](https://doi.org/xxx).
+Mariani, S., Harper, L.R., Collins, R.A., Baillie, C., Wangensteen, O.S., McDevitt, A.D., Heddell-Cowie, M., Genner, M.J. (2021). Estuarine molecular bycatch as a landscape-wide biomonitoring tool. _Biological Conservation_. [https://doi.org/10.1016/j.biocon.2021.109287](https://doi.org/10.1016/j.biocon.2021.109287).
 
 ---
 
